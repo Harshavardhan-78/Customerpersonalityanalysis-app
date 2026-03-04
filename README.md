@@ -3,7 +3,6 @@
 An interactive **Streamlit Web App** that uses **Unsupervised Machine Learning (K-Means Clustering)** to segment customers and generate intelligent marketing recommendations.
 
 ---
-
 ## 🚀 Project Overview
 
 This application analyzes customer behavioral and demographic data to:
